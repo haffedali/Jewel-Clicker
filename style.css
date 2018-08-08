@@ -1,0 +1,14 @@
+.jewel {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 10px;
+    background-color: green;
+}
+
+.numBox {
+    padding: 20px;
+    background-color: grey;
+    color: white;
+    float: left;
+}
